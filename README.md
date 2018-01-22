@@ -4,8 +4,8 @@ This project is done in accordance to the Mini-Project for the Machine Learning 
 
 Contributors:
 
-Romit Khanal (Me)
-Sandesh Balaya Shrestha
+Romit Khanal (Me),
+Sandesh Balaya Shrestha,
 Dr. Bal Krishna Bal (Instructor)
 
 
