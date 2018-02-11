@@ -4,9 +4,9 @@ This project is done in accordance to the Mini-Project for the Machine Learning 
 
 Contributors:
 
-Romit Khanal (Me),
-Sandesh Balaya Shrestha,
-Dr. Bal Krishna Bal (Instructor)
+-Romit Khanal (Me),
+-Sandesh Balaya Shrestha,
+-Dr. Bal Krishna Bal (Instructor)
 
 
 The idea behind MusicLearn(ML) is to build a model to classify songs based on their lyrics by using naive Bayes classifier.
