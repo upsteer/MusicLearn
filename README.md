@@ -21,9 +21,17 @@ To run this project, you would need to follow the given steps:
 1. Download the project either through a zip file or using the command: 'git clone' from the command line.
 2. Open the downloaded folder and navigate to the file from your Jupyter Notebook
 
-  '''MusicLearn.ipynb''''
+  '''
+  
+  MusicLearn.ipynb
+  
+  '''
   
 3. Run the full notebook.
 4. Verify the results in the folder named 
   
-  '''images'''
+  '''
+  
+  images
+  
+  '''
